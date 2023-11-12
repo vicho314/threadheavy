@@ -10,7 +10,7 @@ buildscript {
 
 apply plugin: 'foxloader.dev'
 
-version '1.3.0'
+version '1.0.0'
 
 foxloader {
     // forceReload = true
@@ -18,6 +18,6 @@ foxloader {
     modName = "ThreadHeavyFix"
     modVersion = project.version
     modDesc = "ThreadHeavy High CPU fix based on KivaServerUtils, for client"
-    modWebsite = "https://github.com/striga/theavyfix"
+    modWebsite = "https://github.com/vicho314/theavyfix"
     //serverMod = "com.kiva.kivaserverutils.KivaServerUtilsServer"
 }

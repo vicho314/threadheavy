@@ -1,4 +1,4 @@
-package com.kiva.client.mixins;
+package com.striga.client.mixins;
 
 import net.minecraft.src.client.ThreadHeavy;
 import org.spongepowered.asm.mixin.Mixin;
